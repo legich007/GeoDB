@@ -1,0 +1,9 @@
+C:\Users\Oleg\source\repos\TestADO\bin\Debug\TestADO.exe.config
+C:\Users\Oleg\source\repos\TestADO\bin\Debug\TestADO.exe
+C:\Users\Oleg\source\repos\TestADO\bin\Debug\TestADO.pdb
+C:\Users\Oleg\source\repos\TestADO\obj\Debug\TestADO.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\TestADO\obj\Debug\TestADO.Form1.resources
+C:\Users\Oleg\source\repos\TestADO\obj\Debug\TestADO.Properties.Resources.resources
+C:\Users\Oleg\source\repos\TestADO\obj\Debug\TestADO.csproj.GenerateResource.cache
+C:\Users\Oleg\source\repos\TestADO\obj\Debug\TestADO.exe
+C:\Users\Oleg\source\repos\TestADO\obj\Debug\TestADO.pdb
